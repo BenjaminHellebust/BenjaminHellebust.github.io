@@ -690,10 +690,22 @@ body {
 }
 .markdown-section ul,
 .markdown-section ol {
-  color: var(--theme-color, #5aea6f);
-  list-style-type: square;
   padding-left: 1.5rem;
 }
+
+.markdown-section ul {
+  list-style: none;
+}
+
+.markdown-section ul li::before {
+  content: "\25C8";
+  color: var(--theme-color, #5aea6f);
+  font-weight: bold;
+  display: inline-block; 
+  width: 1.5em;
+  margin-left: -1em;
+}
+
 .markdown-section blockquote {
   border-left: 4px solid var(--theme-color, #5aea6f);
   color: #858585;
