@@ -724,11 +724,11 @@ body {
 }
 
 .markdown-section details {
-  display: inline;
+  display: inline-block;
 }
 
-.markdown-section summary {color: var(--theme-color, #5aea6f); display: inline;}
-.markdown-section summary::-webkit-details-marker {color: var(--theme-color, #5aea6f); display: inline;}
+.markdown-section summary {color: var(--theme-color, #5aea6f); display: inline-block;}
+.markdown-section summary::-webkit-details-marker {color: var(--theme-color, #5aea6f); display: inline-block;}
 
 .markdown-section blockquote {
   border-left: 4px solid var(--theme-color, #5aea6f);
