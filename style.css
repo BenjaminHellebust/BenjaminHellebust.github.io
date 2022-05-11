@@ -21,10 +21,6 @@ body:not(.ready) > nav {
     filter: blur(0);
   }
 }
-* {
-  filter: blur(4px);
-  animation: fade-in 3s both cubic-bezier(0.5, 1, 0.89, 1);  
-}
 div#app {
   font-size: 30px;
   font-weight: lighter;
@@ -319,6 +315,8 @@ body.sticky .sidebar-toggle {
   max-width: 80%;
   padding: 30px 15px 40px 15px;
   position: relative;
+  filter: blur(4px);
+  animation: fade-in 0.5s both cubic-bezier(0.5, 1, 0.89, 1);  
 }
 .markdown-section > * {
   box-sizing: border-box;
