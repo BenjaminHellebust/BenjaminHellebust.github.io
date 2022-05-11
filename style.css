@@ -885,3 +885,7 @@ input[type='search'] {
 .centered {
   text-align: center;
 }
+
+.navi {
+  border-bottom: 1px dashed var(--theme-color, #5aea6f);
+}
