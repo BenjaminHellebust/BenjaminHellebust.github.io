@@ -645,7 +645,6 @@ body {
   display: inline-block;
   text-align: center;
   position: relative;
-  left: 50%;
   border-bottom: 2px dashed var(--theme-color, #5aea6f);
 }
 
