@@ -14,7 +14,7 @@ A presentation about why we should be using more nuclear energy.
 
 <br>
 
-<details>
+<details class="centered">
   <summary>Presentation notes (Click to expand)</summary>
 
   ```
