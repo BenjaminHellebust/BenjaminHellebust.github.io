@@ -5,4 +5,14 @@
 A presentation about why we should be using more nuclear energy.
 
 * Made for Nick Hart's English 122 class
+
 * By Benjamin Hellebust 
+
+<br><details>
+  <summary>Presentation notes (Click to expand)</summary>
+
+  ```
+  1. Introduce self
+  2. Introduce proposal
+  ```
+</details>
