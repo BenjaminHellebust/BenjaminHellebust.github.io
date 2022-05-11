@@ -1,5 +1,5 @@
 
-# Tutorials for every technologist
+# <div class = "centered-div">Tutorials for every technologist</div>
 
 Learn about all these great technologies:
 
