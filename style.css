@@ -635,6 +635,7 @@ body {
 .markdown-section strong {
   color: #657b83;
   font-weight: 600;
+  font-size: 1.5em;
 }
 
 .markdown-section h1,
@@ -677,6 +678,7 @@ body {
 .markdown-section ol {
   text-align: center;
   margin: 1.2em 0;
+  font-size: 1.5em;
 }
 .markdown-section p,
 .markdown-section ul,
@@ -852,8 +854,4 @@ input[type='search'] {
   background: #4f4f4f;
   border-color: #4f4f4f;
   color: #c8c8c8;
-}
-
-* {
-  font-size: 2em;
 }
