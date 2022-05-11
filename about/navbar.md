@@ -1,4 +1,4 @@
-<ul style="color:#5aea6f">
+<ul class="navi">
   <li>Previous</li>
   <li>Next</li>
 </ul>
