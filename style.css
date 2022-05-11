@@ -29,6 +29,14 @@ body:not(.ready) > nav {
     transform: rotate(359deg);
   }
 }
+@keyframes fade-in-out {
+  0% {
+  	border-color: #5aea6f
+  }
+  100% {
+    border-color: transparent
+  }
+}
 * {
   filter: blur(4px);
   animation: fade-in 0.5s both cubic-bezier(0.5, 1, 0.89, 1);  
@@ -755,6 +763,12 @@ body {
   position: relative;
   word-wrap: normal;
 }
+.markdown-section img {
+  border-radius: 5%;
+  border: 2px solid #5aea6f;
+  animation: fade-in-out 1s both infinite alternate cubic-bezier(0.5, 1, 0.89, 1); 
+}
+
 /* code highlight */
 .token.comment,
 .token.prolog,
