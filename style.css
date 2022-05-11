@@ -26,7 +26,7 @@ body:not(.ready) > nav {
     transform: rotate(0deg);
   }
   100% {
-    transform: rotate(360deg);
+    transform: rotate(359deg);
   }
 }
 * {
@@ -712,7 +712,8 @@ body {
   display: inline-block; 
   width: 1.5em;
   margin-left: -1em;
-  animation: rotate 3s infinite;
+  transform-origin: 25% 58%;
+  animation: rotate 3s linear infinite;
 }
 
 .markdown-section blockquote {
