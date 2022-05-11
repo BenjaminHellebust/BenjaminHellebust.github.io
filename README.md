@@ -2,4 +2,7 @@
 
 ![nuclear](https://user-images.githubusercontent.com/95508525/167943431-eb89bf18-4861-4f06-92d8-390acdae3e40.jpg)<br>
 
-A presentation by Benjamin Hellebust for Nick Hart's English 122 class. 
+A presentation about why we should be using more nuclear energy.
+
+* Made for Nick Hart's English 122 class
+* By Benjamin Hellebust 
