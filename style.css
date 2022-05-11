@@ -21,6 +21,14 @@ body:not(.ready) > nav {
     filter: blur(0);
   }
 }
+@keyframes rotate {
+  0 {
+    transform: rotate(0deg);
+  }
+  100% {
+    transform: rotate(360deg);
+  }
+}
 * {
   filter: blur(4px);
   animation: fade-in 0.5s both cubic-bezier(0.5, 1, 0.89, 1);  
@@ -704,6 +712,7 @@ body {
   display: inline-block; 
   width: 1.5em;
   margin-left: -1em;
+  animation: rotate 3s infinite;
 }
 
 .markdown-section blockquote {
