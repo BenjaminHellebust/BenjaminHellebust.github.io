@@ -642,7 +642,7 @@ body {
 .markdown-section h3,
 .markdown-section h4 {
   text-align: center;
-  border-bottom: 1px dashed var(--theme-color, #5aea6f);
+  text-decoraction: underline solid var(--theme-color, #5aea6f) 2px;
 }
 
 .markdown-section a {
