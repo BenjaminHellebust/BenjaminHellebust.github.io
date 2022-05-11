@@ -651,14 +651,8 @@ body {
 .markdown-section h4 {
   font-size: 1.5em;
   display: inline-block;
-  width: auto;
   text-align: center;
-  margin: auto;
   border-bottom: 2px dashed var(--theme-color, #5aea6f);
-}
-
-.centered-div div {
-  text-align: center;
 }
 
 .markdown-section a {
@@ -884,5 +878,11 @@ pre::after {
 input[type='search'] {
   background: #4f4f4f;
   border-color: #4f4f4f;
+  color: #c8c8c8;
+}
+
+
+.centered-div div {
+  text-align: center;
   color: #c8c8c8;
 }
