@@ -688,6 +688,8 @@ body {
 }
 .markdown-section ul,
 .markdown-section ol {
+  color: var(--theme-color, #5aea6f);
+  list-style-type: square;
   padding-left: 1.5rem;
 }
 .markdown-section blockquote {
