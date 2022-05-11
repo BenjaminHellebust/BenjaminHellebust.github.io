@@ -603,7 +603,7 @@ body {
 }
 /* sidebar */
 .sidebar {
-  background-color: #191919;
+  background-color: #323232;
   color: #c8c8c8;
 }
 .sidebar li {
@@ -633,6 +633,7 @@ body {
 .markdown-section h3,
 .markdown-section h4,
 .markdown-section strong {
+  text-decoration: underline;
   color: #657b83;
   font-weight: 600;
 }
