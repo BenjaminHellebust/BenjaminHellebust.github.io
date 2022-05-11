@@ -633,7 +633,6 @@ body {
 .markdown-section h3,
 .markdown-section h4,
 .markdown-section strong {
-  text-decoration: underline;
   color: #657b83;
   font-weight: 600;
 }
