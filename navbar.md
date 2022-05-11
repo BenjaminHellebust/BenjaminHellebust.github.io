@@ -1,4 +1,4 @@
-<ul class="navi">
-  <li>Last</li>
-  <li>Next</li>
+<ul>
+  <li class="navi">Last</li>
+  <li class="navi">Next</li>
 </ul>
