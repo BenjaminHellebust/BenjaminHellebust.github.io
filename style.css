@@ -724,12 +724,11 @@ body {
 }
 
 .markdown-section details {
-  filter: blur(0px);
-  display: inline-block;
+  display: inline;
 }
 
-.markdown-section summary {color: var(--theme-color, #5aea6f); blur(0px); display: inline-block;}
-.markdown-section summary::-webkit-details-marker {color: var(--theme-color, #5aea6f); blur(0px); display: inline-block;}
+.markdown-section summary {color: var(--theme-color, #5aea6f); display: inline;}
+.markdown-section summary::-webkit-details-marker {color: var(--theme-color, #5aea6f); display: inline;}
 
 .markdown-section blockquote {
   border-left: 4px solid var(--theme-color, #5aea6f);
@@ -912,4 +911,8 @@ input[type='search'] {
 
 .navi {
   border-bottom: 1px dashed var(--theme-color, #5aea6f);
+}
+
+details[open] {
+  filter: blur(0px);
 }
