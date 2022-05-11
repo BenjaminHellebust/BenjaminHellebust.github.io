@@ -675,6 +675,7 @@ body {
 .markdown-section p,
 .markdown-section ul,
 .markdown-section ol {
+  text-align: center;
   margin: 1.2em 0;
 }
 .markdown-section p,
