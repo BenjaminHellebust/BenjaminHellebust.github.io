@@ -650,8 +650,15 @@ body {
 .markdown-section h3,
 .markdown-section h4 {
   font-size: 1.5em;
+  display: inline-block;
+  width: auto;
   text-align: center;
-  text-decoration: underline dashed var(--theme-color, #5aea6f) 2px;
+  margin: auto;
+  border-bottom: 2px dashed var(--theme-color, #5aea6f);
+}
+
+.centered-div div {
+  text-align: center;
 }
 
 .markdown-section a {
@@ -878,8 +885,4 @@ input[type='search'] {
   background: #4f4f4f;
   border-color: #4f4f4f;
   color: #c8c8c8;
-}
-
-u {
-  text-decoration: underline dashed var(--theme-color, #5aea6f) 2px;
 }
