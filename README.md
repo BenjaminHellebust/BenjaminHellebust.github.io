@@ -14,11 +14,13 @@ A presentation about why we should be using more nuclear energy.
 
 <br>
 
+<div class = "centered">
 <details class="centered">
-  <summary>Presentation notes (Click to expand)</summary>
+  <summary class="centered">Presentation notes (Click to expand)</summary>
 
   ```
   1. Introduce self
   2. Introduce proposal
   ```
 </details>
+</div>
