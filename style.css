@@ -727,8 +727,8 @@ body {
   filter: blur(0px);
 }
 
-.markdown-section summary {color: var(--theme-color, #5aea6f); blur(4px);}
-.markdown-section summary::-webkit-details-marker {color: var(--theme-color, #5aea6f); blur(4px);}
+.markdown-section summary {color: var(--theme-color, #5aea6f); blur(4px); display: inline-block;}
+.markdown-section summary::-webkit-details-marker {color: var(--theme-color, #5aea6f); blur(4px); display: inline-block;}
 
 .markdown-section blockquote {
   border-left: 4px solid var(--theme-color, #5aea6f);
