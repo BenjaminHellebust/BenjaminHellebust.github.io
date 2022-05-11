@@ -1,14 +1,28 @@
 <!-- docs/sidebar.md -->
 
 
-* [HOME](./)
+* [Home](./)
 
-* [Tutorials](./tutorials/index)
-  * [Tomcat](./tutorials/tomcat/index)
-  * [Cloud](./tutorials/cloud/index)
-  * [Java](./tutorials/java/index)
+* Introduction
+  * [Hook (Pathos)](./tutorials/tomcat/index)
+  * [What is a nuclear reactor?](./tutorials/cloud/index)
+  * [Why nuclear power?](./tutorials/java/index)
 
-* [About](./about/index)
+* Efficiency (Logos 1)
+  * [Sustainability](./)
+  * [Byproducts](./)
+  * [Safety](./)
 
-* [Contact](./contact/index)
+* Enviromental Effects (Logos 2)
+  * [Air quality](./)
+  * [Temperature](./)
+  * [Ocean Acidity](./)
 
+* Why You Should Care (Pathos)
+  * [Disease](./)
+  * [Weather](./)
+  * [Food chain](./)
+
+* [Conclusion](./)
+
+* [Works Cited](./)
