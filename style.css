@@ -765,6 +765,8 @@ body {
 }
 .markdown-section img {
   border-radius: 5%;
+  filter: blur(0px);
+  width: 50%;
   border: 2px solid #5aea6f;
   animation: fade-in-out 1s both infinite alternate cubic-bezier(0.5, 1, 0.89, 1); 
 }
