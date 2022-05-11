@@ -1,4 +1,4 @@
-<!-- docs/_sidebar.md -->
+<!-- docs/sidebar.md -->
 
 
 * [HOME](./)
