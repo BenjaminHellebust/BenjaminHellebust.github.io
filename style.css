@@ -723,8 +723,12 @@ body {
   animation: rotate 3s linear infinite;
 }
 
-.markdown-section summary {color: var(--theme-color, #5aea6f); }
-.markdown-section summary::-webkit-details-marker {color: var(--theme-color, #5aea6f);}
+.markdown-section details {
+  filter: blur(0px);
+}
+
+.markdown-section summary {color: var(--theme-color, #5aea6f); blur(4px);}
+.markdown-section summary::-webkit-details-marker {color: var(--theme-color, #5aea6f); blur(4px);}
 
 .markdown-section blockquote {
   border-left: 4px solid var(--theme-color, #5aea6f);
