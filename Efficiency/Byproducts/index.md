@@ -6,10 +6,10 @@
 How does the effects of nuclear energy's byproducts and fossil fuel's byproducts differ? 
 
 
-* Fossil fuels when burnt produce harmful chemicals like nitrogen oxide and sulfer dioxide which can create acid rain!
+* When burnt, fossil fuels produce harmful chemicals like nitrogen oxide and sulfer dioxide which can create acid rain!
 
 
-* Fossil fuels in the energy sector account for 83% of greenhouse gas emissions in the United States (U.S. Global Change Research Program, p.514)
+* Fossil fuels in the energy sector account for 83% of greenhouse gas emissions in the United States. (U.S. Global Change Research Program, p.514)
 
 
 * Due to advancements in 4th generation reactors, nuclear waste's lifetime can be reduced to a couple hundred years. (Horvath, S38)
