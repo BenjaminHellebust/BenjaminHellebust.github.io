@@ -13,7 +13,9 @@ cardiovascular health effects, including premature death" (U.S. Global Change Re
 * "Many emission sources of greenhouse gases also emit air pollutants that harm human
 health" (U.S. Global Change Research Program, p. 514).
 
+
 * Fossil fuels cause the most direct and indirect deaths among power sources. (Markandya, p. 981) 
+
 
 
 <br>
