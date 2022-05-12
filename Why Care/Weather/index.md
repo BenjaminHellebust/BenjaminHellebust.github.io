@@ -21,16 +21,13 @@ level rise, with cascading impacts to the larger economy" (U.S. Global Change Re
 <br>
 
 <div class = "centered">
-<details style="text-align:left">
+<details style="text-align:center">
   <summary class="centered">Presentation notes (Click to expand)</summary>
- 
  
   ```
   1. Briefly reiterate rhetoric explaining the connection between fossil fuels, carbon dioxide, and increased temperature.
   2. Elaborate on how some of the most densely populated cities lie on the coast. Mention ports and trade.
   3. Mention the consistently massive hurricanes and natural disasters in recent years.
   ```
- 
- 
 </details>
 </div>
