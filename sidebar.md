@@ -11,7 +11,7 @@
 * Efficiency (Logos 1)
   * [Sustainability](./Efficiency/Sustainability/index)
   * [Byproducts](./Efficiency/Byproducts/index)
-  * [Byproducts](./Efficiency/Byproducts/index)
+  * [Safety](./Efficiency/Safety/index)
 
 * Enviromental Effects (Logos 2)
   * [Air Quality](./Enviromental%20Effects/Air%20Quality/index)
