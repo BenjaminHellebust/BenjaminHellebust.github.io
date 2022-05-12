@@ -19,16 +19,13 @@ health" (U.S. Global Change Research Program, p. 514).
 <br>
 
 <div class = "centered">
-<details style="text-align:left">
+<details style="text-align:center">
   <summary class="centered">Presentation notes (Click to expand)</summary>
-  
   
   ```
   1. Reference previous statistic of how more than 100 million Americans have air quality worse than the health standard and how this sheds light on the effects.
   2. Reference previous statistic that most of greenhouse gas emissions are caused by fossil fuels burned for energy production.
   3. Note on how this statistic should be common sense given the sheer scale.
   ```
-  
-  
 </details>
 </div>
