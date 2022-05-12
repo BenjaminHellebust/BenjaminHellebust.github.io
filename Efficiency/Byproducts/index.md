@@ -23,11 +23,11 @@ How does the effects of nuclear energy's byproducts and fossil fuel's byproducts
 <div class = "centered">
 <details style="text-align:center">
   <summary class="centered">Presentation notes (Click to expand)</summary>
-  
+
   ```
   1. Elaborate on how nitrogen oxide and sulfer dioxide accumulate and cause acid rain.
   2. Mention the nearest coal plant we have here in Kansas. Use this as an example to showcase how fossil fuel burning for energy rather than cars is more common than one might expect.
-  3. Reference the nuclear power plant generation chart that was shown. Clarify that a couple hundred of years is actually very small from a societal perspective.
+  3. Reference the nuclear power plant generation chart that was shown. Clarify that a couple hundred of years is actually very small time from a societal perspective.
   ```
 </details>
 </div>
