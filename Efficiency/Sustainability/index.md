@@ -23,7 +23,7 @@ What makes nuclear energy sustainable, if it uses a somewhat limited resource?
 <div class = "centered">
 <details style="text-align:center">
   <summary class="centered">Presentation notes (Click to expand)</summary>
-  
+
   ```
   1. Read the description below the image.
   2. Elaborate on the nature of Uranium. Mention Thorium and how it is more abundant.
