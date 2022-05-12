@@ -15,7 +15,7 @@ What makes nuclear energy sustainable, if it uses a somewhat limited resource?
 * New "breeder" reactors can create more nuclear fuel and even recycle nuclear waste. (Horvath, S43)
 
 
-* 4th generation reactors build upon this current technology. Making reactors up to 50x more efficient (Horvath, S43-44)
+* 4th generation reactors build upon this current technology. Making reactors up to 50x more efficient! (Horvath, S43-44)
 
 
 <br>
