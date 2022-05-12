@@ -13,20 +13,19 @@ Where's the drive for nuclear energy?
 <br>
 
 <div class = "centered">
-<details class="centered">
+<details style="text-align:center">
   <summary class="centered">Presentation notes (Click to expand)</summary>
 
   ```
   1. [Referring to the proposal] "But where's this coming from?"
   2. Elaborate on the Science editorial
-     a. Science is a prestigious peer-reviewed scientific journal.
-     b. Less than 7% of articles submitted are published.
-     c. Elaborate on author credentials.
-     d. Mention authors condemning the practice of shutting down nuclear plants without good reason (specifically Germany).
-  3. Elaborate on MIT Energy Initiative
-     a. Elaborate on Ernest Moniz being a former Secretary of Energy and what that entails
-     b. Elaborate on Ernerst Moniz's occupation as a nuclear physicist
-     c. Mention Ernest's talk on what caused public stigma
+  3. Science is a prestigious peer-reviewed scientific journal.
+  4. Less than 7% of articles submitted are published.
+  5. Elaborate on author credentials.
+  6. Mention authors condemning the practice of shutting down nuclear plants without good reason (specifically Germany).
+  7. Elaborate on Ernest Moniz being a former Secretary of Energy and what that entails
+  8. Elaborate on Ernerst Moniz's occupation as a nuclear physicist
+  9. Mention Ernest's talk on what caused public stigma
   ```
 </details>
 </div>
