@@ -1,8 +1,8 @@
 <ul>
   <li class="navi">
-    <a href="./about/index">Previous<a>
+    <a href="./#/./Efficiency/Safety/index">Previous<a>
   </li>
   <li class="navi">
-    <a href="./about/index">Next<a>
+    <a href="./#/./Why%20Care/Weather/index">Next<a>
   </li>
 </ul>
