@@ -17,7 +17,7 @@ A presentation about why we should be using more nuclear energy.
 <div class = "centered">
 <details style="text-align:center">
   <summary class="centered">Presentation notes (Click to expand)</summary>
-  
+
   ```
   1. Introduce self
   2. Introduce proposal
