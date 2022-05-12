@@ -14,7 +14,7 @@ cardiovascular health effects, including premature death" (U.S. Global Change Re
 health" (U.S. Global Change Research Program, p. 514).
 
 
-* Fossil fuels cause the most direct and indirect deaths among power sources. (Markandya, p. 981) 
+* Fossil fuels cause the most direct and indirect deaths per terawatt an hour among power sources. (Markandya, p. 981) 
 
 
 
@@ -23,7 +23,7 @@ health" (U.S. Global Change Research Program, p. 514).
 <div class = "centered">
 <details style="text-align:center">
   <summary class="centered">Presentation notes (Click to expand)</summary>
-  
+
   ```
   1. Reference previous statistic of how more than 100 million Americans have air quality worse than the health standard and how this sheds light on the effects.
   2. Reference previous statistic that most of greenhouse gas emissions are caused by fossil fuels burned for energy production.
