@@ -1,4 +1,4 @@
-# Works Cited
+<div class = "centered"><h1 style="color:#c8c8c8">Works Cited</h1></div>
 
 <object data="https://github.com/BenjaminHellebust/BenjaminHellebust.github.io/files/8674185/Bibliography.pdf" type="application/pdf" width="100%" height="100%">
     <embed src="https://github.com/BenjaminHellebust/BenjaminHellebust.github.io/files/8674185/Bibliography.pdf">
