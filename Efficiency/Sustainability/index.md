@@ -21,9 +21,9 @@ What makes nuclear energy sustainable, if it uses a somewhat limited resource?
 <br>
 
 <div class = "centered">
-<details style="text-align:left">
+<details style="text-align:center">
   <summary class="centered">Presentation notes (Click to expand)</summary>
- 
+  
   ```
   1. Read the description below the image.
   2. Elaborate on the nature of Uranium. Mention Thorium and how it is more abundant.
@@ -31,7 +31,5 @@ What makes nuclear energy sustainable, if it uses a somewhat limited resource?
   4. Explain, briefly, how a breeder reactor works.
   5. Reference the diagram and explain how 4th generation reactors improve on older models. Mention Molten Salt Reactors.
   ```
-  
-  
 </details>
 </div>
