@@ -3,7 +3,7 @@
 ![weather](https://user-images.githubusercontent.com/95508525/167990475-23671623-86e9-4b92-a176-6c6f10756d7c.jpg)<br>
 
 
-Finally, there's the reason of weather.
+Finally, there's the impact on weather.
 
 
 * Due to the greenhouse gas effect, there's more atmospheric heat which has increased the volume water in the oceans take up.
