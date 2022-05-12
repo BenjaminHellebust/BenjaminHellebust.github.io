@@ -15,15 +15,12 @@ A presentation about why we should be using more nuclear energy.
 <br>
 
 <div class = "centered">
-<details style="text-align:left">
+<details style="text-align:center">
   <summary class="centered">Presentation notes (Click to expand)</summary>
-  
   
   ```
   1. Introduce self
   2. Introduce proposal
   ```
-  
-  
 </details>
 </div>
