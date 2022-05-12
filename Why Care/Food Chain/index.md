@@ -3,7 +3,7 @@
 ![corn](https://user-images.githubusercontent.com/95508525/167988773-a5dbd66d-e275-4334-ab88-0d0b12ed0161.jpg)<br>
 
 
-Another reason is the food chain.
+Another reason is the impact on the food chain.
 
 
 
