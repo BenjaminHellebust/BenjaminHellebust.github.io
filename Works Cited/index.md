@@ -6,4 +6,8 @@
         <p>This browser does not support PDFs. Please download the PDF to view it: <a href="https://github.com/BenjaminHellebust/BenjaminHellebust.github.io/files/8679812/Bibliography.pdf">Download PDF</a>.</p>
     </embed>
 </object>
+<br>
+<br>
 
+
+If you're having trouble viewing the PDF — or your browser isn't automatically downloading it, you can download the PDF <a href="https://github.com/BenjaminHellebust/BenjaminHellebust.github.io/files/8679812/Bibliography.pdf">here</a>.
