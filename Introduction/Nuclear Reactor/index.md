@@ -21,7 +21,7 @@ But what IS a nuclear reactor?
 <div class = "centered">
 <details style="text-align:center">
   <summary class="centered">Presentation notes (Click to expand)</summary>
-  
+
   ```
   1. Read the description under the image.
   2. Go through the bullet points while pointing out the various parts of the diagram.
