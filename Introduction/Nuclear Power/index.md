@@ -21,14 +21,11 @@ But what about other popular forms of green energy like wind and solar?
 <details style="text-align:center">
   <summary class="centered">Presentation notes (Click to expand)</summary>
 
-  
   ```
   1. Read the description under the image.
   2. Wind requires high, open space. Solar requires clear open skies.
   3. Further clarify point 2 via example (i.e. "imagine..")
   4. Lithium-Ion batteries are the most common type of battery currently used in power grid storage - Lithium is a rare and progressively depleting rare earth.
   ```
-  
-  
 </details>
 </div>
