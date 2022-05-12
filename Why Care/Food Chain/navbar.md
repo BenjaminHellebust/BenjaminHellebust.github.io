@@ -1,8 +1,8 @@
 <ul>
   <li class="navi">
-    <a href="./#/./Works%20Cited/index">Previous<a>
+    <a href="./#/./Why%20Care/Disease/index">Previous<a>
   </li>
   <li class="navi">
-    <a href="./#/./Introduction/Hook/index">Next<a>
+    <a href="./#/./Why%20Care/Weather/index">Next<a>
   </li>
 </ul>
