@@ -6,7 +6,7 @@
 How safe is nuclear energy in comparison to fossil fuels?
 
 
-* "More than 100 million people in the United States live in communities where air pollution
+* Due to fossil fuels, "[m]ore than 100 million people in the United States live in communities where air pollution
 exceeds health-based air quality standards" (U.S. Global Change Research Program, p. 513)
 
 
