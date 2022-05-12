@@ -4,9 +4,16 @@
 
 But what IS a nuclear reactor?
 
+
 * A nuclear reactor is a power plant that uses fissile material to generate electricity.
+
+
 * Nuclear reactors convert heat into electric energy, usually through a turbine.
+
+
 * The most common way the turbine is spun is by evaporating water.
+
+
 * The only air-borne byproduct is therefore water, with the only other byproducts being various forms of radioactive waste that decay over time and are safely stored until then.
 
 <br>
