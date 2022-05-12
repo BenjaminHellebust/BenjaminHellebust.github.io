@@ -24,9 +24,8 @@ levels, or very acidified conditions." (U.S. Global Change Research Program, p. 
 <br>
 
 <div class = "centered">
-<details style="text-align:left">
+<details style="text-align:center">
   <summary class="centered">Presentation notes (Click to expand)</summary>
- 
  
   ```
   1. Read the description under the image.
@@ -35,7 +34,5 @@ levels, or very acidified conditions." (U.S. Global Change Research Program, p. 
   4. Briefly explain the proccess in which ocean accidification happens.
   5. Explain how this can impact getting fish. Explain how coral reefs help shelter fish.
   ```
- 
- 
 </details>
 </div>
