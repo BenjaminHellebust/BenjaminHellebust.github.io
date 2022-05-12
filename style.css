@@ -914,5 +914,5 @@ input[type='search'] {
 }
 
 details[open] {
-  filter: blur(0px);
+  animation: fade-in 0.5s both cubic-bezier(0.5, 1, 0.89, 1);  
 }
