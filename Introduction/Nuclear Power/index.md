@@ -15,6 +15,9 @@ But what about other popular forms of green energy like wind and solar?
 * Batteries often require rare or expensive metals to produce and require replacements every so often.
 
 
+* Nuclear power makes up 17% of global power generation and it's possible to further scale it up! (Markandya, p. 988)
+
+
 <br>
 
 <div class = "centered">
