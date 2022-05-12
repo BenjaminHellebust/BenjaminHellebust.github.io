@@ -5,8 +5,8 @@
 
 * Introduction
   * [Hook (Pathos)](./Introduction/Hook/index)
-  * [What is a nuclear reactor?](./Introduction/Nuclear_Reactor/index)
-  * [Why nuclear power?](./Introduction/Nuclear_Power/index)
+  * [What is a nuclear reactor?](./Introduction/Nuclear%20Reactor/index)
+  * [Why nuclear power?](./Introduction/Nuclear%20Power/index)
 
 * Efficiency (Logos 1)
   * [Sustainability](./Efficiency/Sustainability/index)
@@ -14,15 +14,15 @@
   * [Byproducts](./Efficiency/Byproducts/index)
 
 * Enviromental Effects (Logos 2)
-  * [Air Quality](./Enviromental_Effects/Air_Quality/index)
-  * [Temperature](./Enviromental_Effects/Temperature/index)
-  * [Ocean Acidity](./Enviromental_Effects/Ocean_Acidity/index)
+  * [Air Quality](./Enviromental%20Effects/Air%20Quality/index)
+  * [Temperature](./Enviromental%20Effects/Temperature/index)
+  * [Ocean Acidity](./Enviromental%20Effects/Ocean%20Acidity/index)
 
 * Why You Should Care (Pathos)
-  * [Disease](./Why_Care/Disease/index)
-  * [Weather](./Why_Care/Weather/index)
-  * [Food Chain](./Why_Care/Food_Chain/index)
+  * [Disease](./Why%20Care/Disease/index)
+  * [Weather](./Why%20Care/Weather/index)
+  * [Food Chain](./Why%20Care/Food%20Chain/index)
 
 * [Conclusion](./Conclusion/index)
 
-* [Works Cited](./Works_Cited/index)
+* [Works Cited](./Works%20Cited/index)
