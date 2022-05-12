@@ -7,13 +7,13 @@ Another reason is the food chain.
 
 
 
-* Fossil fuels emit carbon dioxide, a common greenhouse gas warms the atmosphere and causes increased rainfall, when burned.
+* Fossil fuels emit carbon dioxide, a common greenhouse gas that warms the atmosphere which causes increased rainfall, when burned.
 
 
 * This causes "[s]ustainable crop production [to be] threatened by excessive runoff, leaching, and flooding, which results in soil erosion, degraded water quality in lakes and streams, and damage to rural community infrastructure" (U.S. Global Change Research Program, pp. 392)
 
 
-* Furthermore, carbon dioxide can mix with ocean water causing acidification.
+* Furthermore, carbon dioxide can mix with ocean water to create carbonic acid — causing ocean acidification.
 
 
 * This means "[m]arine ecosystems and the coastal communities that depend on them are at risk of significant
@@ -26,7 +26,7 @@ levels, or very acidified conditions." (U.S. Global Change Research Program, p. 
 <div class = "centered">
 <details style="text-align:center">
   <summary class="centered">Presentation notes (Click to expand)</summary>
- 
+
   ```
   1. Read the description under the image.
   2. Explain the greenhouse gas effect. Compare it to a blanket.
