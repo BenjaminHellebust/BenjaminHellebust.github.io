@@ -4,25 +4,25 @@
 * [Home](./)
 
 * Introduction
-  * [Hook (Pathos)](./tutorials/tomcat/index)
-  * [What is a nuclear reactor?](./tutorials/cloud/index)
-  * [Why nuclear power?](./tutorials/java/index)
+  * [Hook (Pathos)](./Introduction/Hook/index)
+  * [What is a nuclear reactor?](./Introduction/Nuclear_Reactor/index)
+  * [Why nuclear power?](./Introduction/Nuclear_Power/index)
 
 * Efficiency (Logos 1)
-  * [Sustainability](./)
-  * [Byproducts](./)
-  * [Safety](./)
+  * [Sustainability](./Efficiency/Sustainability/index)
+  * [Byproducts](./Efficiency/Byproducts/index)
+  * [Byproducts](./Efficiency/Byproducts/index)
 
 * Enviromental Effects (Logos 2)
-  * [Air quality](./)
-  * [Temperature](./)
-  * [Ocean Acidity](./)
+  * [Air Quality](./Enviromental_Effects/Air_Quality/index)
+  * [Temperature](./Enviromental_Effects/Temperature/index)
+  * [Ocean Acidity](./Enviromental_Effects/Ocean_Acidity/index)
 
 * Why You Should Care (Pathos)
-  * [Disease](./)
-  * [Weather](./)
-  * [Food chain](./)
+  * [Disease](./Why_Care/Disease/index)
+  * [Weather](./Why_Care/Weather/index)
+  * [Food Chain](./Why_Care/Food_Chain/index)
 
-* [Conclusion](./)
+* [Conclusion](./Conclusion/index)
 
-* [Works Cited](./)
+* [Works Cited](./Works_Cited/index)
