@@ -3,7 +3,7 @@
 ![cancer](https://user-images.githubusercontent.com/95508525/167987789-d24ea4b1-8509-4b0a-af72-aeaf44193eff.jpg)<br>
 
 
-So why should you care? Well, one reason is disease.
+So why should you care? Well, one reason is the impact on disease.
 
 
 * "[W]orsened air pollution would increase the incidence of adverse respiratory and
