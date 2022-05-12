@@ -15,7 +15,7 @@ How does the effects of nuclear energy's byproducts and fossil fuel's byproducts
 * Due to advancements in 4th generation reactors, nuclear waste's lifetime can be reduced to a couple hundred years. (Horvath, S38)
 
 
-* The only air emissions from nuclear power plants are water vapor.
+* The only direct air emissions from nuclear power plants are water vapor. In fact, nuclear power plants have the lowest indirect carbon emissions among differing power sources. (Markandya, p. 982)
 
 
 <br>
