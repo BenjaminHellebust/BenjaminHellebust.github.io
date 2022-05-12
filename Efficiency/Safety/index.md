@@ -15,22 +15,20 @@ exceeds health-based air quality standards" (U.S. Global Change Research Program
 
 * As for nuclear waste, it is stored deep underground in specific locations as to not endanger the public in any way. (Horvath, S41-42)
 
+
 * New reactors like Molten Salt Reactors are much, much safer. 
 
 
 <br>
 
 <div class = "centered">
-<details style="text-align:left">
+<details style="text-align:center">
   <summary class="centered">Presentation notes (Click to expand)</summary>
-  
-  
+
   ```
   1. Read description under the image.
   2. Elaborate on the sheer absurdity of more than 100 million people having air pollution above health standards.
   3. Elaborate on said safety features. Mention Molten Salt Reactors.
   ```
-  
-  
 </details>
 </div>
