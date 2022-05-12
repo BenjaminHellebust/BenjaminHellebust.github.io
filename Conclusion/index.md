@@ -2,6 +2,7 @@
 
 ![wrappingup](https://user-images.githubusercontent.com/95508525/167991807-46cff549-15f7-4a55-8a78-c2b60cdd7408.jpg)<br>
 
+
 So in conclusion:
 
 
@@ -24,16 +25,13 @@ So in conclusion:
 <br>
 
 <div class = "centered">
-<details style="text-align:left">
+<details style="text-align:center">
   <summary class="centered">Presentation notes (Click to expand)</summary>
- 
- 
+  
   ```
   1. Briefly elaborate over points, mentioning important details of information covered
   2. Wrap-up
   3. Say goodbye to the audience!
   ```
- 
- 
 </details>
 </div>
