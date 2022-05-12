@@ -9,7 +9,7 @@ So in conclusion:
 * There is a drive among experts to adopt more nuclear energy.
 
 
-* Other green energy sources are mildly inconsistent and much less efficient.
+* Other green energy sources are noticeably inconsistent and much less efficient.
 
 
 * Nuclear energy provides a multitude of benefits over fossil fuels and is much safer.
