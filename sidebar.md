@@ -8,7 +8,7 @@
   * [What is a nuclear reactor?](./Introduction/Nuclear%20Reactor/index)
   * [Why nuclear power?](./Introduction/Nuclear%20Power/index)
 
-* Efficiency (Logos 1)
+* Efficiency (Logos)
   * [Sustainability](./Efficiency/Sustainability/index)
   * [Byproducts](./Efficiency/Byproducts/index)
   * [Safety](./Efficiency/Safety/index)
