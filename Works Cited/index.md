@@ -10,4 +10,4 @@
 <br>
 
 
-If you're having trouble viewing the PDF — or your browser isn't automatically downloading it, you can download the PDF <a href="https://github.com/BenjaminHellebust/BenjaminHellebust.github.io/files/8679812/Bibliography.pdf">here</a>.
+If you're having trouble viewing the PDF (it SHOULD render on Firefox) — or your browser isn't automatically downloading it, you can download the PDF <a href="https://github.com/BenjaminHellebust/BenjaminHellebust.github.io/files/8679812/Bibliography.pdf">here</a>.
