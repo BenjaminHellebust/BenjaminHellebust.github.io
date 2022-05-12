@@ -10,7 +10,7 @@ Finally, there is the impact on the food chain.
 * Fossil fuels emit carbon dioxide, a common greenhouse gas that warms the atmosphere which causes increased rainfall, when burned.
 
 
-* This causes "[s]ustainable crop production [to be] threatened by excessive runoff, leaching, and flooding, which results in soil erosion, degraded water quality in lakes and streams, and damage to rural community infrastructure" (U.S. Global Change Research Program, pp. 392)
+* This causes "[s]ustainable crop production [to be] threatened by excessive runoff, leaching, and flooding, which results in soil erosion, degraded water quality in lakes and streams, and damage to rural community infrastructure" (U.S. Global Change Research Program, pp. 392).
 
 
 * Furthermore, carbon dioxide can mix with ocean water to create carbonic acid — causing ocean acidification.
@@ -18,7 +18,7 @@ Finally, there is the impact on the food chain.
 
 * This means "[m]arine ecosystems and the coastal communities that depend on them are at risk of significant
 impacts from extreme events with combinations of very high temperatures, very low oxygen
-levels, or very acidified conditions." (U.S. Global Change Research Program, p. 354)
+levels, or very acidified conditions" (U.S. Global Change Research Program, p. 354).
 
 
 <br>
