@@ -13,11 +13,6 @@
   * [Byproducts](./Efficiency/Byproducts/index)
   * [Safety](./Efficiency/Safety/index)
 
-* Enviromental Effects (Logos 2)
-  * [Air Quality](./Enviromental%20Effects/Air%20Quality/index)
-  * [Temperature](./Enviromental%20Effects/Temperature/index)
-  * [Ocean Acidity](./Enviromental%20Effects/Ocean%20Acidity/index)
-
 * Why You Should Care (Pathos)
   * [Disease](./Why%20Care/Disease/index)
   * [Weather](./Why%20Care/Weather/index)
