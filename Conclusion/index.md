@@ -27,7 +27,7 @@ So in conclusion:
 <div class = "centered">
 <details style="text-align:center">
   <summary class="centered">Presentation notes (Click to expand)</summary>
-  
+
   ```
   1. Briefly elaborate over points, mentioning important details of information covered
   2. Wrap-up
